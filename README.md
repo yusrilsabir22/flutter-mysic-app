@@ -1,4 +1,4 @@
-# mys
+# MyMusic App
 
 A new Flutter project.
 
